@@ -2,18 +2,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephguluzada&theme=github_light)](https://github.com/josephguluzada/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephguluzada&" alt="josephguluzada" /></p>
 💻 Skills
-<p>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width: 45px; margin-left: 5px;" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="margin-left: 45px;"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="margin-left: 45px;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-left: 45px;"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin-left: 45px;"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-left: 45px;"/>
-  <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" style="margin-left: 45px;"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-left: 45px;"/>
-</p>
-
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
