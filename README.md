@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephguluzada&hide=css,html&layout=compact&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephguluzada&hide=css,html&layout=compact&theme=github_light)](https://github.com/josephguluzada/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephguluzada&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephguluzada&" alt="josephguluzada" /></p>
 💻 Skills
