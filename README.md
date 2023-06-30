@@ -1,6 +1,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephguluzada&" alt="josephguluzada" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephguluzada&hide=css,html&layout=compact&theme=github_light)](https://github.com/josephguluzada/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephguluzada&theme=github_light)](https://github.com/josephguluzada/github-readme-stats)
+
 💻 Skills
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
