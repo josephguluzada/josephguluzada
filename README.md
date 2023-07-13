@@ -4,7 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephguluzada&theme=github_light)](https://github.com/josephguluzada/github-readme-stats)
 
-[![](https://visitcount.itsvg.in/api?id=josephguluzada&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 💻 Skills
 <p align="left">
