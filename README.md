@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephguluzada&" alt="josephguluzada" /></p>
+![josephguluzada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=josephguluzada&theme=default&hide_border=false)
 
 ![josephguluzada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephguluzada&theme=default&show_icons=true&hide_border=false&layout=compact)
 
