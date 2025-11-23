@@ -42,6 +42,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919844.png" height="48"/>
 
 </p>
+
 ### **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite,bootstrap" />
