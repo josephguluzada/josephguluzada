@@ -26,6 +26,12 @@
   <!-- C# -->
   <img src="https://skillicons.dev/icons?i=cs" height="48" />
 
+  <!-- JAVA -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48"/>
+
+  <!-- VB.NET (working version) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" height="48"/>
+  
   <!-- .NET -->
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" />
 
@@ -38,8 +44,8 @@
   <!-- Web API (using Swagger icon – ALWAYS works) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="48"/>
 
-  <!-- VB.NET (working version) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919844.png" height="48"/>
+
+
 
 </p>
 
