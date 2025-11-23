@@ -1,27 +1,91 @@
-![josephguluzada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=josephguluzada&theme=default&hide_border=false) 
- 
-![josephguluzada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephguluzada&theme=default&show_icons=true&hide_border=false&layout=compact)
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm Yusif Guluzada</h1>
+<h3 align="center">Full-Stack .NET Developer • Clean Architecture Enthusiast • React/Vite Builder</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephguluzada&theme=github_light)](https://github.com/josephguluzada/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/josephguluzada?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/josephguluzada?label=Stars&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=josephguluzada&color=blueviolet&style=flat-square" />
+</p>
 
+---
 
+## 🚀 About Me  
+- 🔹 Full-stack developer specializing in **ASP.NET Core**, **Web API**, **MVC**, **SignalR**, and **Clean Architecture**  
+- 🔹 Front-end with **React**, **Vite**, **TypeScript**, **Bootstrap**  
+- 🔹 Experienced with **Azure**, **Docker**, **SQL Server**, **Oracle**, **PostgreSQL** 
+- 🔹 Enjoy crafting scalable services (microservice-ready), optimizing DB logic, and writing clean, maintainable code  
 
-💻 Skills
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+---
+
+## 🔥 Tech Stack  
+
+### **Backend**
+<p>
+
+  <!-- C# -->
+  <img src="https://skillicons.dev/icons?i=cs" height="48" />
+
+  <!-- .NET -->
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" />
+
+  <!-- ASP.NET Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="48"/>
+
+  <!-- ASP.NET MVC -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="48"/>
+
+  <!-- Web API (using Swagger icon – ALWAYS works) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="48"/>
+
+  <!-- VB.NET (working version) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919844.png" height="48"/>
+
+</p>
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite,bootstrap" />
+</p>
+
+### **Cloud, Tools & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,postgres,mysql,sqlite" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=josephguluzada&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephguluzada&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=josephguluzada&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josephguluzada&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus  
+- 🏗 Building microservice-ready backends  
+- 📚 Mastering Azure Cloud & CI/CD  
+- 🔄 Creating real-time capable systems (SignalR, WebSockets)  
+- 📝 Building tools for quizzes, teachers, automation, and business apps  
+
+---
+
+## 📬 Contact  
+📧 **Email:** *(yquluzade98@gmail.com)*  
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/yusif-guluzada-6a22a3217/)*  
+🌍 **From:** Baku, Azerbaijan  
+
+---
+
+<h3 align="center">✨ Thanks for visiting — let's build amazing things together!</h3>
